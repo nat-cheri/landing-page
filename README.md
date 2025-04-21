@@ -1,3 +1,3 @@
 # landing-page
 My first HTML + CSS Project!
-VIew the webspage here: https://nat-cheri.github.io/landing-page
+View the webpage here: https://nat-cheri.github.io/landing-page
